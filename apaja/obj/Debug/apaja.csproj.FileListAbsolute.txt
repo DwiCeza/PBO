@@ -1,0 +1,8 @@
+D:\keju\C#\apaja\apaja\bin\Debug\apaja.exe.config
+D:\keju\C#\apaja\apaja\bin\Debug\apaja.exe
+D:\keju\C#\apaja\apaja\bin\Debug\apaja.pdb
+D:\keju\C#\apaja\apaja\obj\Debug\apaja.csproj.AssemblyReference.cache
+D:\keju\C#\apaja\apaja\obj\Debug\apaja.csproj.SuggestedBindingRedirects.cache
+D:\keju\C#\apaja\apaja\obj\Debug\apaja.csproj.CoreCompileInputs.cache
+D:\keju\C#\apaja\apaja\obj\Debug\apaja.exe
+D:\keju\C#\apaja\apaja\obj\Debug\apaja.pdb
